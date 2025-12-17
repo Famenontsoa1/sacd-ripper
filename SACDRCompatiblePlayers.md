@@ -61,6 +61,7 @@ Raw ISO images (SACD-R) that are burned to DVD-R can be played on several SACD p
   * Samsung HD941
   * Samsung HD945
   * Samsung HD950
+  * Sony BDP-S490 (downgraded to firmware M12R0430)
   * Yamaha DVD-S657
   * Yamaha DVD-S1700
   * Yamaha DVD-S1800
